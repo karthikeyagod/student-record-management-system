@@ -12,9 +12,9 @@ A console-based application designed to manage student records using file handli
 - Persistent storage using files
 
 ## Technologies Used
-- C / C++ / Java
+- Java
 - File Handling
-- Structured Programming
+- Object Oriented Programming
 
 ## Purpose
 This project was developed to strengthen understanding of file handling,
